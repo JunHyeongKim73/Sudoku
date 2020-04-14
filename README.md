@@ -1,3 +1,5 @@
 # Sudoku Solver
 This program is to find the answer for [Sudoku](https://sudoku.com/ko).
+The site for program is [here](https://naver.com).
 # How to Use
+![캡처](https://user-images.githubusercontent.com/56298375/79241789-7c1e6f00-7eae-11ea-994a-e8d396dafd4d.PNG)

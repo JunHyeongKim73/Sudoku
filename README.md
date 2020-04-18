@@ -1,5 +1,5 @@
 # Sudoku Solver
-This program is to find the answer for [Sudoku](https://sudoku.com/ko).  
+This simple program is to find the answer for [Sudoku](https://sudoku.com/ko).  
   
 The site for program is [here](https://junhyeongkim73.github.io/Sudoku/).
 # How to Use
